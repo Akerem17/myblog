@@ -1,19 +1,19 @@
 {
   "short_name": "Ahmet Kerem",
-  "name": "Bir Yazılımcının Blogu",
+  "name": "Bir Yazılımcının Blogu - Ahmet Kerem",
   "icons": [
     {
-      "src": "favicon.png",
+      "src": "/background.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "favicon.png",
+      "src": "/background.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "favicon.png",
+      "src": "/background.png",
       "type": "image/png",
       "sizes": "512x512"
     }
